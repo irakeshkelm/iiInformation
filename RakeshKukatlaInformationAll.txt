@@ -1,23 +1,23 @@
 -----Rakesh Kukatla Information All-----
 
 
------Download links web information:
+-----Download links for web information:
 
 Current web information:
 RakeshKukatlaInformationGoogleCurrent.tgz
 https://drive.google.com/file/d/14ddo1aIZjZgYtjgwBw-xCqrclcXTVFKN/view?usp=drive_link
 
-Other by date web information:
+Other web information by date:
 RakeshKukatlaInformationGoogle12192023.tgz
 https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
 
 
------Download links internet information (manual collation):
+-----Download links for internet information (manual collation):
 
 Current internet information (manual collation):
 https://github.com/rakeshkelmMedia/toText
 
-Other by date internet information (manual collation):
+Other internet information by date(manual collation):
 https://github.com/rakeshkelmMedia/toText
 
 
