@@ -45,7 +45,7 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
 web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
------Smart information
+-----Smart information (aka Trailer content)
 web : github.usa.saudiroyalist/irakeshkelm/iiinformation
 -----Smart location
 America (aka Trailer park)
