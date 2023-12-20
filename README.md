@@ -12,13 +12,15 @@ then, continue
 
 to Check out,
 
-RakeshKukatlaInformationAllCurrent.tgz (in this folder)
+RakeshKukatlaInformationGoogleCurrent.tgz at
+https://drive.google.com/file/d/14ddo1aIZjZgYtjgwBw-xCqrclcXTVFKN/view?usp=drive_link
 
 if, still interested,
 
 Check out
 
-RakeshKukatlaInformationAll(yyyymmdd).tgz  (in this folder)
+Current internet information (manual collation):
+https://github.com/rakeshkelmMedia/toText
 
 Build and Operationalize a Planet. Expand and Update Independent Interest
 
