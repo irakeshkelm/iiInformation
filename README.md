@@ -4,7 +4,9 @@ Forward information - Planet, Independent interest(Suc-king)
 
 https://information.planet.ii
 
-Check out,
+Check out, 
+
+Rakesh Kukatla's information:
 
 RakeshKukatlaInformationAll.txt (in this folder)
 
@@ -13,6 +15,8 @@ RakeshKukatlaInformationAll.txt (in this folder)
 then, continue
 
 to Check out,
+
+Current web information:
 
 RakeshKukatlaInformationGoogleCurrent.tgz at
 
