@@ -13,6 +13,7 @@ then, continue
 to Check out,
 
 RakeshKukatlaInformationGoogleCurrent.tgz at
+
 https://drive.google.com/file/d/14ddo1aIZjZgYtjgwBw-xCqrclcXTVFKN/view?usp=drive_link
 
 if, still interested,
@@ -20,6 +21,7 @@ if, still interested,
 Check out
 
 Current internet information (manual collation):
+
 https://github.com/rakeshkelmMedia/toText
 
 Build and Operationalize a Planet. Expand and Update Independent Interest
