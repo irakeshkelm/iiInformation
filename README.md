@@ -6,7 +6,9 @@ https://information.planet.ii
 
 Check out,
 
-RakeshKukatlaInformationAll.txt (Actively updated)
+RakeshKukatlaInformationAll.txt (in this folder)
+
+(Actively updated)
 
 then, continue
 
