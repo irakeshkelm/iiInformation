@@ -1,96 +1,55 @@
-﻿Open copyright - Rakesh Kukatla-Sittrue
+﻿Architecture firmware (aka RiscvFirmware, ArmFirmware, x86Firmware)
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Open copyright - Rakesh Kukatla-Sittrue
+Architecture firmware (aka RiscvFirmware, ArmFirmware, x86Firmware)
 
 
-outlined
+Architecture firmware
 [
-Independent interest
+from hardware firm's
+simple, modern
 and
-Militia
------Independently joint
-Independent
+open source, open copyright
 and
-Professional
-------
-service to individual
+capable of running
+Architecture OsContainerware
+Architecture OsDistributorware
+Architecture VirtualMachineware (aka yada euroware, nada greenware)
 ]
 
 
-
-
-explained
+Architecture OsContainerware (aka RiscvOsContainerware, ArmOsContainerware, x86OsContainerware aka private hardware)
 [
-It is, your
-to, use
-as, you choose
-]
-
-
-nada selling (aka free aka royalist aka socialist aka communist)
-[
-open copyright: consumer homestead
-damages: nada
-closed copyright: consumer commercial
-damages: maximum, upto the contracted amount
-]
-
-
-selling appliance (aka capitalist)
-[
-open copyright: consumer homestead
-damages: maximum, upto the contracted amount
-closed copyright: consumer commercial
-damages: maximum, upto the damage amount
-]
-
-
------ closed copyright : outlined (aka fudge statement)
-fudge copyright
-fudge license
-nada service to individual
-
-
-closed copyright (aka fudging statement)
-[
-open source
+simple, modern
 and
-available on web (aka publicly)
-then
-ignore closed copyright (aka fudging statement)
+open source, open copyright
 and
-put your open copyright (aka True statement)
-service to individual (aka True yourself)
+capable of running
+container's - server, app's, client-browser and other
 ]
 
 
------ closed copyright : explained (fudging statement)
-fudge copyright : Best of worst to worst of worst (aka them hot girls)
-fudge license : Best of worst to worst of worst (aka them hot girls)
+Architecture OsDistributorware (aka RiscvOsDistributorware, ArmOsDistributorware, x86OsDistributorware aka ArchOsKubernetesware aka shared hardware aka redundancy)
+[
+simple, modern
+and
+open source, open copyright
+and
+capable of running
+OsContainerware, container's - os, server, client-browser, other)
+]
 
 
-fudge copyright : Apache currency (aka them hot girls, aka communist)
-service to community
-example, Apache license, Apache license 1.0
-
-
-fudge copyright : MIT currency, BSD currency (aka them ugly kitten hot girls, aka Royalist)
-service to king
-example, MIT license
-example, BSD license, BSD-3 license
-
-
-fudge copyright : GPL currency (aka them ugly hot girls, aka Royalist)
-service to king
-example, GPL license, GPLv3 license
-
-
-MIT = Mssachusetts institute of technology
-BSD = Berkeley systems division
-GPL = GNU public license
-GNU = GNU is not unix
+Architecture VirtualMachineware (aka RiscvVirtualMachineware, ArmVirtualMachineware, x86VirtualMachineware aka ArchVirtualMachineware aka shared hardware aka redundancy)
+[
+simple, modern
+and
+open source, open copyright
+and
+capable of running
+Architecture OsContainerware
+Architecture OsDistributorware
 ]
 
 
@@ -167,7 +126,8 @@ United whore belles = rust, dust
 romani belle = bible
 person = per-son
 people = pe-op-le
-people = pe-op-le
+
+
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----

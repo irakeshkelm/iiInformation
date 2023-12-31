@@ -1,96 +1,66 @@
-﻿Open copyright - Rakesh Kukatla-Sittrue
+﻿Linux distributions - homestead, workstead
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Open copyright - Rakesh Kukatla-Sittrue
+Linux distributions - homestead, workstead
 
 
-outlined
+common distributions
 [
-Independent interest
-and
-Militia
------Independently joint
-Independent
-and
-Professional
-------
-service to individual
+Linux - Web editor
+example homestead : Linux - Web
+example workstead : Linux - xWeb, yWeb, zWeb
+
+
+Linux - Net editor
+example homestead : Linux - Chromium
+example workstead : Linux - operaChromium, googleChromium, microsoftChromium
+
+
+Linux - Developer, Programmer
+example homestead : Linux - DevPro
+example workstead : Linux - Debian, Linux - Redhat
+
+
+Linux - Systems integrator
+example homestead : Linux - SysInt
+example workstead : Linux - Gentoo
+
+
+Linux - Engineer
+example homestead : Linux - Torvalds
+example workstead : Linux - xEngineer
+
+
+Linux - Container runner
+example homestead : Linux - Container
+example workstead : Linux - Docker
+
+
+Linux - Cloud runner
+example homestead : Linux - cloudRunner
+example workstead : Linux - googleRunner, microsoftRunner, amazonRunner
 ]
 
 
-
-
-explained
+other distributions
 [
-It is, your
-to, use
-as, you choose
-]
+Linux - Financial analyzer
+example homestead : Linux - analyzeFinance
+example workstead : Linux - yAnalyzerF?
 
 
-nada selling (aka free aka royalist aka socialist aka communist)
-[
-open copyright: consumer homestead
-damages: nada
-closed copyright: consumer commercial
-damages: maximum, upto the contracted amount
-]
+Linux - Game player
+example homestead : Linux - playGames
+example workstead : Linux - zPlayer
 
 
-selling appliance (aka capitalist)
-[
-open copyright: consumer homestead
-damages: maximum, upto the contracted amount
-closed copyright: consumer commercial
-damages: maximum, upto the damage amount
-]
+Linux - Entertainment player
+example homestead : Linux - playEntertainment
+example workstead : Linux - xPlayer
 
 
------ closed copyright : outlined (aka fudge statement)
-fudge copyright
-fudge license
-nada service to individual
-
-
-closed copyright (aka fudging statement)
-[
-open source
-and
-available on web (aka publicly)
-then
-ignore closed copyright (aka fudging statement)
-and
-put your open copyright (aka True statement)
-service to individual (aka True yourself)
-]
-
-
------ closed copyright : explained (fudging statement)
-fudge copyright : Best of worst to worst of worst (aka them hot girls)
-fudge license : Best of worst to worst of worst (aka them hot girls)
-
-
-fudge copyright : Apache currency (aka them hot girls, aka communist)
-service to community
-example, Apache license, Apache license 1.0
-
-
-fudge copyright : MIT currency, BSD currency (aka them ugly kitten hot girls, aka Royalist)
-service to king
-example, MIT license
-example, BSD license, BSD-3 license
-
-
-fudge copyright : GPL currency (aka them ugly hot girls, aka Royalist)
-service to king
-example, GPL license, GPLv3 license
-
-
-MIT = Mssachusetts institute of technology
-BSD = Berkeley systems division
-GPL = GNU public license
-GNU = GNU is not unix
+so on and so forth
 ]
 
 
@@ -166,7 +136,6 @@ sovereign people : banana republicans - whore belles (United whores, romani).
 United whore belles = rust, dust
 romani belle = bible
 person = per-son
-people = pe-op-le
 people = pe-op-le
 
 

@@ -1,96 +1,73 @@
-﻿Open copyright - Rakesh Kukatla-Sittrue
+﻿Price your (aka capitalist) services (aka appliances), trades (aka appliances) and your (aka capitalism) companies via open auction
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Open copyright - Rakesh Kukatla-Sittrue
+Price your (aka capitalist) services (aka appliances), trades (aka appliances) and your (aka capitalism) companies via auction
 
 
-outlined
+always price, via open auction
 [
-Independent interest
-and
-Militia
------Independently joint
-Independent
-and
-Professional
-------
-service to individual
-]
-
-
-
-
-explained
-[
-It is, your
-to, use
-as, you choose
-]
-
-
-nada selling (aka free aka royalist aka socialist aka communist)
-[
-open copyright: consumer homestead
-damages: nada
-closed copyright: consumer commercial
-damages: maximum, upto the contracted amount
-]
-
-
-selling appliance (aka capitalist)
-[
-open copyright: consumer homestead
-damages: maximum, upto the contracted amount
-closed copyright: consumer commercial
-damages: maximum, upto the damage amount
-]
-
-
------ closed copyright : outlined (aka fudge statement)
-fudge copyright
-fudge license
-nada service to individual
-
-
-closed copyright (aka fudging statement)
-[
-open source
-and
-available on web (aka publicly)
+allow auctioneers, step 1
+to
+bid for your capitalist services
+bid for your capitalist trades
+bid for your companies
+to
+set a reserve price, from the winning auctioneer
 then
-ignore closed copyright (aka fudging statement)
-and
-put your open copyright (aka True statement)
-service to individual (aka True yourself)
+allow persons, step 2
+to
+bid for your capitalist services
+bid for your capitalist trades
+bid for your companies
+to
+set a clearing price, from the winning bidder
+then
+allow persons, step 3
+to
+pay for your (capitalist owner) capitalist services
+pay for your (capitalist owner) capitalist trades
+then
+allow persons, step 4
+unable to pay
+to
+pay the lowest bid price
+then
+repeat the above, step 5
+for
+each version of your capitalist services
+each version of your capitalist trades
+each version of your capitalist companies
 ]
 
 
------ closed copyright : explained (fudging statement)
-fudge copyright : Best of worst to worst of worst (aka them hot girls)
-fudge license : Best of worst to worst of worst (aka them hot girls)
-
-
-fudge copyright : Apache currency (aka them hot girls, aka communist)
-service to community
-example, Apache license, Apache license 1.0
-
-
-fudge copyright : MIT currency, BSD currency (aka them ugly kitten hot girls, aka Royalist)
-service to king
-example, MIT license
-example, BSD license, BSD-3 license
-
-
-fudge copyright : GPL currency (aka them ugly hot girls, aka Royalist)
-service to king
-example, GPL license, GPLv3 license
-
-
-MIT = Mssachusetts institute of technology
-BSD = Berkeley systems division
-GPL = GNU public license
-GNU = GNU is not unix
+example:
+price your (aka capitalist) web services (aka appliances), web trades (aka appliances) and your (aka capitalism) web companies via open auction
+[
+allow web auctioneers, step 1
+to
+bid for your capitalist web services, web trades, web companies
+to
+set a reserve web price
+then
+allow persons, step 2
+to bid for your capitaist web services, web trades, web companies
+to
+set a clearing web price, from the winning web auctioneer
+then
+allow persons, step 3
+to pay for your (capitalist owner) capitalist web services, web trades, web companies
+then
+allow persons, step 4
+unable to pay
+to
+pay the lowest bid price
+then
+repeat the above, step 5
+for
+each version of your capitalist services
+each version of your capitalist trades
+each version of your capitalist companies
 ]
 
 
@@ -166,7 +143,6 @@ sovereign people : banana republicans - whore belles (United whores, romani).
 United whore belles = rust, dust
 romani belle = bible
 person = per-son
-people = pe-op-le
 people = pe-op-le
 
 
