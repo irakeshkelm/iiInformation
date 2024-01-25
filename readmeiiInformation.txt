@@ -8,7 +8,7 @@ Check out,
 
 Rakesh Kukatla's information:
 
-RakeshKukatlaInformationAll.txt (in this folder)
+rakeshKukatlaInformationAll.txt (in this folder)
 
 (Actively updated)
 
@@ -20,7 +20,7 @@ Current web information:
 
 RakeshKukatlaInformationGoogleCurrent.tgz at
 
-https://drive.google.com/file/d/14ddo1aIZjZgYtjgwBw-xCqrclcXTVFKN/view?usp=drive_link
+https://drive.google.com/drive/folders/1HllOOQ0Mjp5hCr66xJsG9T8vSDaYA6p6?usp=sharing
 
 if, still interested,
 
